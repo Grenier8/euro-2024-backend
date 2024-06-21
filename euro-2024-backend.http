@@ -1,0 +1,6 @@
+@euro_2024_backend_HostAddress = http://localhost:5003
+
+GET {{euro_2024_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
